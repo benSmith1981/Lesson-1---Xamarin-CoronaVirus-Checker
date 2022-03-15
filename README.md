@@ -3,21 +3,21 @@ Create a new visual studio project called Corona Virus Simulator, summary of thi
 
 Create a single page app 
 
-Add a Label, Text Input Field and a Button 
+- Add a Label, Text Input Field and a Button 
 
-Connect the code to the button and the input field 
+- Connect the code to the button and the input field 
 
 Write code to: 
 
-Get the value of the input field 
+- Get the value of the input field 
 
-Convert it to an integer 
+- Convert it to an integer 
 
-Check if it is over 36 degrees  
+- Check if it is over 36 degrees  
 
-If it is show a message saying you are positive for Rona 
+- If it is show a message saying you are positive for Rona 
 
-If it is not show a message saying you are negative for Rona 
+- If it is not show a message saying you are negative for Rona 
 
  
 
